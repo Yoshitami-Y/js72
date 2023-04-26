@@ -13,7 +13,7 @@
       "agentName" : "primaryAgent",
       "executable" : {
         "TYPE" : "ShellScriptExecutable",
-        "script" : "#!/bin/bash\n\necho \"using workflow: $JS7_WORKFLOW_NAME\"\necho \"running job: $JS7_JOB_NAME\"\n\nfor ((i=1; i<=11; i++)); do\n   echo \"Hello World aaaano. $i\"\n   sleep 1\ndone\n",
+        "script" : "#!/bin/bash\n\necho \"using workflow: $JS7_WORKFLOW_NAME\"\necho \"running job: $JS7_JOB_NAME\"\n\nfor ((i=1; i<=11; i++)); do\n   echo \"Hello World a22a333aano. $i\"\n   sleep 1\ndone\n",
         "v1Compatible" : false
       },
       "skipIfNoAdmissionForOrderDay" : false,
